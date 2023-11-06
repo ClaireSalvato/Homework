@@ -37,9 +37,7 @@ public class Brackets {
                 System.out.println("Pancakes are ready! Serve and enjoy!");
             }
 
-        } // if statement ends here
-
-        else {
+        } else {
             System.out.println("You are missing some ingredients. Can't make pancakes.");
         }
     }
